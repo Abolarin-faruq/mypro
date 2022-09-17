@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-size:;
+
+}
+body{
+ color: #efefef;
+}
+nav{
+  padding-right: 80px;
+}
+.first-sec{
+  background:url("mymood.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: ;
+  background-color: black;
+  height:100vh;
+  width: 100%;
+}
+.addborder{
+  border: green solid 3px;
+  border-radius: 50%;
+  padding:10px;
+  margin-left: 40px;
+
+}
+.unordered{
+  margin-left: auto;
+  margin-right: 30px;
+}
+.hero{
+  margin:100px;
+  margin-top: 160px;
+  width: 40%;
+}
+.head-img{
+  /* position: absolute; */
+  float: ;
+}
